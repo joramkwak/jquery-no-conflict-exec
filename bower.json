@@ -2,7 +2,7 @@
   "name": "jquery-no-conflict-exec",
   "main": "jquery-no-conflict.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/joramkwak/jquery-no-conflict",
+  "homepage": "https://github.com/joramkwak/jquery-no-conflict-exec",
   "authors": [
     "Joram Kwak <jkwak@joramis.com>"
   ],
